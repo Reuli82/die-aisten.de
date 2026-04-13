@@ -1,0 +1,6 @@
+# robots.txt für die-aisten.de
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://die-aisten.de/sitemap.xml
